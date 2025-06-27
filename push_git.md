@@ -1,6 +1,6 @@
 git remote set-url origin git@github.com:RealTapeL/RealTapeL.github.io.git
 
-git status
+git init
 
 git add .
 
