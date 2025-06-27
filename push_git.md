@@ -1,10 +1,10 @@
-git remote set-url origin https://github.com/RealTapeL/RealTapeL.github.io.git
+git remote set-url origin git@github.com:RealTapeL/RealTapeL.github.io.git
 
 git status
 
 git add .
 
 # 3. 提交
-git commit -m "修复导航栏bug"
+git commit -m "提交md文档"
 
 git push -u origin main
